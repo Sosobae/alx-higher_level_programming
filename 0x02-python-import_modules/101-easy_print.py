@@ -1,2 +1,2 @@
 #!/usr/bin/python3
-__import__('os', fromlist=['system']).
+import easy_print_101.
